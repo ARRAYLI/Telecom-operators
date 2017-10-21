@@ -1,0 +1,46 @@
+﻿生成启动时间为 2016/12/2 17:25:30。
+     1>项目“D:\VS 开发工具源代码\CL_项目_数据交换机\CL_项目_数据交换机\CL_项目_数据交换机.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\开发工具\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt mian.c
+         mian.c
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2342): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\time.inl(112) : 参见“localtime”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2352): warning C4101: “ch1”: 未引用的局部变量
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2352): warning C4101: “ch2”: 未引用的局部变量
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2395): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2424): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2425): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2534): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2535): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2585): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2586): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2659): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2710): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2761): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\stdio.h(254) : 参见“gets”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2804): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\stdio.h(254) : 参见“gets”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2844): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\stdio.h(254) : 参见“gets”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2885): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\stdio.h(254) : 参见“gets”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2891): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\开发工具\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\vs 开发工具源代码\cl_项目_数据交换机\cl_项目_数据交换机\mian.c(2739): warning C4101: “ft”: 未引用的局部变量
+       Link:
+         D:\开发工具\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS 开发工具源代码\CL_项目_数据交换机\Debug\CL_项目_数据交换机.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VS 开发工具源代码\CL_项目_数据交换机\Debug\CL_项目_数据交换机.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS 开发工具源代码\CL_项目_数据交换机\Debug\CL_项目_数据交换机.lib" /MACHINE:X86 Debug\mian.obj
+         CL_项目_数据交换机.vcxproj -> D:\VS 开发工具源代码\CL_项目_数据交换机\Debug\CL_项目_数据交换机.exe
+     1>已完成生成项目“D:\VS 开发工具源代码\CL_项目_数据交换机\CL_项目_数据交换机\CL_项目_数据交换机.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.58
